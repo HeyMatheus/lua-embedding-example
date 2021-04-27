@@ -1,6 +1,6 @@
 # lua-embedding-example
 
-Embedding Lua.org in C/C++
+Embedding Lua in C/C++
 
 # Requirements
 
@@ -9,10 +9,10 @@ Embedding Lua.org in C/C++
 
 # Usage
 
-$ git clone this repo
+$ git clone git@github.com:HeyMatheus/lua-embedding-example.git
 
 $ cd lua-embedding-example
 
-$ mkdir build && cmake -S . -B build
+$ cmake -B build
 
 $ make -C build

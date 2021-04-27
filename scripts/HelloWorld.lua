@@ -1,3 +1,3 @@
 function Boot()
-  print("Hello, World! (from Lua :D)")
+    print("Hello, World! (from Lua :D)")
 end

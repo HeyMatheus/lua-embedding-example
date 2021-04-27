@@ -9,5 +9,5 @@ add_executable(${PROJECT_NAME} main.cpp)
 find_package(Lua REQUIRED)
 
 target_link_libraries(${PROJECT_NAME} PRIVATE
-  ${LUA_LIBRARIES}
+	${LUA_LIBRARIES}
 )
