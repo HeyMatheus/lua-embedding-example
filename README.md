@@ -9,7 +9,7 @@ Embedding Lua in C++
 
 # Usage
 
-$ git clone https://github.com/HeyMatheus/lua-embedding-example.git
+$ clone this repo
 
 $ cd lua-embedding-example
 
